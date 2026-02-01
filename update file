@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>For Anshul ❤️</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="css">
 </head>
 
 <body>
@@ -16,6 +16,6 @@
     </div>
   </div>
 
-  <script src="script.js"></script>
+  <script src="java"></script>
 </body>
 </html>
